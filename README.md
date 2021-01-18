@@ -1,2 +1,2 @@
-# web_ar_dea_madre
+# Realtà aumentata 4E ITIS OTHOCA
 https://mdstefano.github.io/ar/
