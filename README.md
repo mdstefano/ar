@@ -1,5 +1,5 @@
 # Realtà aumentata 4E ITIS OTHOCA
-https://mdstefano.github.io/ar/
+https://mdstefano.github.io/ar/index.html
 
 
 <p align="center">
